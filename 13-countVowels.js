@@ -10,3 +10,10 @@ for ( i=vowels.length-1; i>=0; i--){
 }
 console.log(count)
 
+//14 Count characters in string
+
+let characters = "ritik kumar"
+console.log(characters.replace(" ","").length)
+
+
+//15 Remove spaces from string
